@@ -1,7 +1,7 @@
 pipeline {
   agent any 
     stages {
-      stage ("build"){
+      stage ("build me please !!") {
         steps {
          echo " hi there "
        }
